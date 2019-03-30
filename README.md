@@ -21,3 +21,4 @@ will be sent via Bluetooth.
 
 Note that, Jetson TX1 has Bluetooth port. 
 
+See the video for the test at https://youtu.be/S4uprQfYsOA .
